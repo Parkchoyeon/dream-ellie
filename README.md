@@ -54,6 +54,7 @@
 [링크이름](https://velog.io/@seondal/Markdown-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95)
 
 |Header|Description|
+---|---|
 |--|--|
 |Cell1|Cell2|
 |Cell1|Cell2|
@@ -68,4 +69,3 @@ var x int8 = 32
 - [x] task2
 
 :smirk:
-
